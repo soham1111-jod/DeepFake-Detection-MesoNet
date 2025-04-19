@@ -67,9 +67,10 @@ python app.py
 
 ## Team
 
-- [Team Member 1] - Lead Developer
-- [Team Member 2] - ML Engineer
-- [Team Member 3] - UI/UX Designer
+- Soham Chafale
+- Aditya Kinikar
+- Rajveer R.
+- Rajeev P.
 
 ## License
 

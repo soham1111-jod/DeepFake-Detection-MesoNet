@@ -113,5 +113,9 @@ def predict_image():
 
     return render_template('predict.html')
 
+@app.route('/ping')
+def ping():
+    return {'status': 'ok'}, 200
+
 if __name__ == '__main__':
     app.run(debug=True)

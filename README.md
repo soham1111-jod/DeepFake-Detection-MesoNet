@@ -13,6 +13,17 @@ This project implements a deepfake detection system using the MesoNet deep learn
 - Visual result presentation with confidence scores
 - Simple and intuitive user interface
 
+## Screenshots
+
+Here are some screenshots of the live demo:
+![Screenshot (13)](https://github.com/user-attachments/assets/173433c4-0f46-4745-ac04-183c1a036e5d)
+
+![Screenshot (14)](https://github.com/user-attachments/assets/3a7a8cc4-6e74-4dba-86d7-2768d28e97bf)
+
+![Screenshot (15)](https://github.com/user-attachments/assets/1190fa02-0ff6-4fd3-8d12-c29cf6cee8b7)
+
+![Screenshot (16)](https://github.com/user-attachments/assets/22ebe378-9855-4d0d-b345-c2ac4090c4da)
+
 ## How It Works
 
 1. Upload an image through the web interface

@@ -1,4 +1,4 @@
-# DeepFake Detection Using MesoNet
+# FaceTruth - DeepFake Detection
 
 A web application for detecting deepfake images using the MesoNet architecture.
 
